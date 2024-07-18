@@ -68,7 +68,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -233,7 +238,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -418,7 +428,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -516,7 +531,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -644,7 +664,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1003,7 +1028,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1131,7 +1161,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2104,7 +2139,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2275,7 +2315,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2634,7 +2679,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2767,7 +2817,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3376,7 +3431,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3484,7 +3544,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3737,7 +3802,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3845,7 +3915,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10387,7 +10462,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10538,7 +10618,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10805,7 +10890,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10903,7 +10993,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14148,7 +14243,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14329,7 +14429,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14746,7 +14851,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14889,7 +14999,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16548,7 +16663,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16680,7 +16800,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16947,7 +17072,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17060,7 +17190,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18116,7 +18251,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18332,7 +18472,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18894,7 +19039,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19062,7 +19212,12 @@
         "fracture_doors": 0.01,
         "min_air_temp": -12.0,
         "room_temp": 20.0,
-        "max_air_temp_heating": 15.0
+        "max_air_temp_heating": 15.0,
+        "wall_u": 2.0,
+        "roof_u": 2.6,
+        "window_u": 2.8,
+        "door_u": 3.0,
+        "ground_u": 2.9
       },
       "geometry": {
         "type": "MultiPolygon",
