@@ -8,6 +8,7 @@ Description: Contains the threaded functionality functions
 import numpy as np
 import geopandas as gpd
 import traceback
+import debugpy
 
 from PyQt5.QtCore import QThread, pyqtSignal
 
@@ -378,6 +379,7 @@ class CalculateMixThread(QThread):
         self.weights = weights
 
     def run(self):
+        debugpy.debug_this_thread()
         """
         Runs the heat generation mix calculation.
         """
